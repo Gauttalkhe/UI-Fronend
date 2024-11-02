@@ -1,0 +1,14 @@
+/* App.css */
+body {
+    background: rgb(227, 210, 237);
+    background: linear-gradient(90deg, rgba(227, 210, 237, 1) 0%, rgba(104, 9, 121, 0.237) 35%);
+    margin: 0; /* Ensure there's no default margin */
+    font-family: Arial, sans-serif; /* Optional: Set a default font */
+}
+/* In App.css or a separate CSS file */
+.transparent-card {
+    background-color: rgba(255, 255, 255, 0.5); /* white with 50% opacity */
+    border: 1px solid rgba(200, 200, 200, 0.5); /* light gray border with 50% opacity */
+}
+
+/* Other styles can go here */
